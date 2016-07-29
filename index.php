@@ -1,14 +1,5 @@
-<html>
-
-    <head>
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
-        <title>Hello World</title>
-    </head>
-
-    <body>
-       <?php
-          echo "Hello World";
-       ?>
-    </body>
-
-</html>
+<?php
+ <form>
+<input type="button" value="Put Your Text Here" onclick="window.location.href='http://www.heise.de'" />
+</form>
+?>
