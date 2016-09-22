@@ -1,3 +1,3 @@
 <?php
-echo '<p>This is a PHP script</p>';
+echo '<p>Willkommen auf der BITT</p>';
 ?>
